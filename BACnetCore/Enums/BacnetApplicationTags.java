@@ -1,7 +1,7 @@
 package BACnetCore.Enums;
 
 /**
- * Created by Phil on 3/20/2016.
+ * Created by Phil on 3/26/2016.
  */
 public enum BacnetApplicationTags {
 
